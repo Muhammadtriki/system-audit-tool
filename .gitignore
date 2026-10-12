@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Output from running the tool. These contain your username, IP addresses and
+# file paths, so they must never be uploaded.
+logs/
+integrity_baseline.json
+report*.html
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

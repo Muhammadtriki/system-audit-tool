@@ -1,0 +1,5 @@
+psutil>=5.9
+requests>=2.28
+
+# Optional: only needed for the ARP scan (menu option 6), which also needs admin/root rights
+# scapy
